@@ -1,0 +1,5 @@
+/redis/data/*
+!/redis/data/.gitkeep
+/postgres/data/*
+!/postgres/data/.gitkeep
+
